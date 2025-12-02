@@ -7,8 +7,7 @@ Website giới thiệu chính thức của Lab cung cấp thông tin về các l
 ## 📬 Liên Hệ
 
 -   **Email:** info@mekonglab.edu.vn
--   **Địa chỉ:** [Địa chỉ Tạm thời, TP Cần Thơ]
 
 ---
 
-© 2024 Mekong Lab.
+© 2026 Mekong Lab.
